@@ -48,7 +48,5 @@ will compute file inputfile.sent.tree with one parse tree per sentence in the in
 
 
 [1] https://opennlp.apache.org
-
 [2] http://farasa.qcri.org
-
 [3] https://github.com/OpenITI
